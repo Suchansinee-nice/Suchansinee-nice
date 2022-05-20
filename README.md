@@ -1,17 +1,16 @@
-## Hi there 👋, I'm Suchansinee Lipikaporn.
+## Hi there 👋, I'm Suchansinee Lipikaporn. 
 
-<img src="https://user-images.githubusercontent.com/68985490/169530132-cf0fa27f-2f57-4e93-bb1b-2a2d3a576db4.gif" width="400" height="300">
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suchansinee-lipikaporn-83bb7218b/)
+[	![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nuniicee/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/nicenight_14210/_saved/)
+
+### Personal struffs:
+- 🔭 I’m currently working on design and develop APIs using Apigee API Management Platform.
+- 🌱 I’m currently learning Java, Javascript, Go.
+- 📫 How to reach me: suchan.lipi@gmail.com
+- 💻 Connect with me on [Linkedin](https://www.linkedin.com/in/suchansinee-lipikaporn-83bb7218b/)
 
 
-### Talking about Personal Stuffs:
-
-🔭 I’m currently working on ...
-
-🌱 I’m currently learning Java, Javascript, Go.
-
-📫 How to reach me: suchan.lipi@gmail.com
-
-💻 Connect with me on [Linkedin](https://www.linkedin.com/in/suchansinee-lipikaporn-83bb7218b/)
 
 
 
