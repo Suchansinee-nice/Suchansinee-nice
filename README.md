@@ -1,11 +1,11 @@
-## Hi there 👋, I'm Suchansinee Lipikaporn.   
+## Hi there 👋, I'm Suchansinee Lipikaporn.   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=Suchansinee-nice&label=PROFILE+VIEWS&style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suchansinee-lipikaporn-83bb7218b/)
 [	![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nuniicee/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/nicenight_14210/_saved/)
 
 ### Welcome to my github 👩🏻   
-![](https://komarev.com/ghpvc/?username=Suchansinee-nice&label=PROFILE+VIEWS&style=flat-square)
+
 
 ### Personal struffs:
 - 🔭 I’m currently working on design and develop APIs using Apigee API Management Platform.
