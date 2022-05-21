@@ -20,7 +20,6 @@ I am a work in progress and it's ok.🌱
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:| -----:| -----:| -----:|
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchansinee-nice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align="center">"What a good day to be proud of all the progress you've made."</h4>
 <br>
