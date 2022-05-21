@@ -4,9 +4,9 @@
 [	![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nuniicee/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/nicenight_14210/_saved/)
 
-### Welcome to my github 👩🏻 
+### Welcome to my github 👩🏻 🌈
 This is the place where I trial and error on what I am learning.<br/>
-I am a work in progress and it's ok.
+I am a work in progress and it's ok.🌱
 
 ### Personal stuffs:
 - 🔭 I’m currently working on design and develop APIs using Apigee API Management Platform.
