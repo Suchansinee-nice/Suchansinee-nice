@@ -12,7 +12,7 @@ I am a work in progress and it's ok.🌱
 - 🔭 I’m currently working on design and develop APIs using Apigee API Management Platform.
 - 🌱 I’m currently learning Java, Javascript, Go.
 - 📫 How to reach me: suchan.lipi@gmail.com
-- 💻 Connect with me on [Linkedin](https://www.linkedin.com/in/suchansinee-lipikaporn-83bb7218b/)
+- 💻 Connect with me on [Linkedin](https://www.linkedin.com/in/suchansinee-lipikaporn-nice-83bb7218b/)
 
 
 ### Languages and Tools:
