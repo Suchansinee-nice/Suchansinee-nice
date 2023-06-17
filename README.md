@@ -9,7 +9,7 @@ This is the place where I trial and error on what I am learning.<br/>
 I am a work in progress and it's ok.🌱
 
 ### Personal stuffs:
-- 🔭 I’m currently working on design and develop APIs using Apigee API Management Platform.
+- 🔭 I’m currently working on Java developer at Insurance industry.
 - 🌱 I’m currently learning Java, Javascript, Go.
 - 📫 How to reach me: suchan.lipi@gmail.com
 - 💻 Connect with me on [Linkedin](https://www.linkedin.com/in/suchansinee-lipikaporn-nice-83bb7218b/)
