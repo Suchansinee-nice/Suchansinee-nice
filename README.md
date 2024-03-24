@@ -6,7 +6,6 @@
 
 ### Personal stuffs:
 - 🔭 I’m currently working on Java developer at Insurance industry.
-- 🌱 I’m currently learning Java, Javascript, Go.
 - 📫 How to reach me: suchan.lipi@gmail.com
 - 💻 Connect with me on [Linkedin](https://www.linkedin.com/in/suchansinee-lipikaporn-nice-83bb7218b/)
 
