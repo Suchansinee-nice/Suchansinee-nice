@@ -5,7 +5,7 @@
 ### Welcome to my github 👩🏻 🌈
 
 ### Personal stuffs:
-- 🔭 I’m currently working on Java developer at Insurance industry.
+- 🔭 I’m currently working on Java developer.
 - 📫 How to reach me: suchan.lipi@gmail.com
 - 💻 Connect with me on [Linkedin](https://www.linkedin.com/in/suchansinee-lipikaporn-nice-83bb7218b/)
 
