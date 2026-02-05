@@ -27,6 +27,8 @@
 </div>
 <br>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suchansinee-nice&show_icons=true&locale=en&layout=compact" alt="suchansinee-nice" /></p>
+
 <h4 align="center">"What a good day to be proud of all the progress you've made."</h4>
 <br>
 <p align="center"><img src="https://user-images.githubusercontent.com/68985490/169651209-f6d1687d-2b13-4ca1-aa89-27e858263c29.jpg" width="100" height="100"></p>
