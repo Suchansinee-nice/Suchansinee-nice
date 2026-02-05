@@ -27,7 +27,6 @@
 </div>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suchansinee-nice&show_icons=true&locale=en&layout=compact" alt="suchansinee-nice" /></p>
 
 <h4 align="center">"What a good day to be proud of all the progress you've made."</h4>
 <br>
