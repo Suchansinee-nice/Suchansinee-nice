@@ -27,6 +27,9 @@
 </div>
 <br>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/Suchansinee-nice" alt="2026 Contribution Graph" />
+</p>
 
 <h4 align="center">"What a good day to be proud of all the progress you've made."</h4>
 <br>
